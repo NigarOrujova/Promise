@@ -2,6 +2,9 @@ input{
     margin-top: 50px;
     margin-left:120px ;
 }
+#card{
+  margin-left: 0;
+}
 .loader {
     border: 6px solid #f3f3f3;
     border-radius: 50%;
